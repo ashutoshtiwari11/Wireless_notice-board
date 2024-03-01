@@ -1,4 +1,4 @@
-# Wireless_notice-board
+# Wireless_notice-board - IoT
 Bluetooth based wireless Notice Board.   
 ##Arduino Uno
 #Bluetooth Module
